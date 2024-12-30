@@ -1,4 +1,4 @@
-# Kapsamlı WebSphere Application Server Health Check Rehberi
+# WebSphere Application Server Health Check Rehberi
 
 ## 1. BAŞLANGIÇ HAZIRLIĞI VE ERİŞİMLER
 
